@@ -1,3 +1,5 @@
+<img src="banner.png" width="850" />
+
 <!--
 
 I'm currently working on
