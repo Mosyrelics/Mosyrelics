@@ -5,8 +5,7 @@ I like to create projects that strengthen my understanding of data structures, a
 
 ## Main Language
 
-<img src="images/java.png" width="50" />
-<img src="images/cpp.png" width="50" />
+<img src="images/java.png" width="50" /><img src="images/cpp.png" width="50" />
 
 ## Currently Learning
 
