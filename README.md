@@ -22,10 +22,12 @@ I like to create projects that strengthen my understanding of data structures, a
   <img src="images/python.png" width="50">
   <img src="images/html.png" width="50">
   <img src="images/css.png" width="50">
-  <img src="images/javascript.png" width="50">
+  <img src="images/js.png" width="50">
   <img src="images/cs.png" width="50">
   <img src="images/php.png" width="50">
 </td>
+</tr>
+</table>
 
 ## Future Projects
 
