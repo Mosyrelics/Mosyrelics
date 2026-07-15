@@ -29,15 +29,17 @@ I like to create projects that strengthen my understanding of data structures, a
 
 ## Future Projects
 
-<!--
+- Personal Finance Tracker (next project)
+- Reminder app
+- File organizer
 
-I'm currently working on
-I'm currently learning
-I'm looking to collaborate on
-I'm looking for help with
-Ask me about
-How to reach me:
-Pronouns:
-Fun fact:
+## Future Goals
 
--->
+- Build a game
+- Build a software
+- Build a website
+
+## Socials
+
+- <a href="https://www.instagram.com/mosesrelith/">"Instagram</a>
+- <a href="https://x.com/mosesrelith">"X</a>
