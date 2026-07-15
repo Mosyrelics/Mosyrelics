@@ -41,6 +41,10 @@ I like to create projects that strengthen my understanding of data structures, a
 - Build a software
 - Build a website
 
+## GitHub Stats
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Mosyrelics)](https://github.com/stats-organization/github-stats-extended)
+
 ## Socials
 
 - <a href="https://www.instagram.com/mosesrelith/">Instagram</a>
