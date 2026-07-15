@@ -43,7 +43,8 @@ I like to create projects that strengthen my understanding of data structures, a
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Mosyrelics)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mosyrelics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Mosyrelics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Mosyrelics&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Mosyrelics&langs_count=4&theme=radical)
 
 ## Socials
 
