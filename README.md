@@ -1,8 +1,18 @@
 <img src="images/banner.png" width="850" />
 
 I am an Informatics Student passionate about software development, problem solving, and building practical applications.
-I can do basic Java and C++. Currently learning other language, such as JavaScript, Python, C#, and PHP.
 I like to create projects that strengthen my understanding of data structures, algorithms, and software engineering.
+
+## Main Language
+
+<img src="images/java.png" width="50" />
+<img src="images/cpp.png" width="50" />
+
+## Currently Learning
+
+## Future Projects
+
+I can do basic Java and C++. Currently learning other language, such as JavaScript, Python, C#, and PHP.
 
 <!--
 
