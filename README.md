@@ -43,5 +43,5 @@ I like to create projects that strengthen my understanding of data structures, a
 
 ## Socials
 
-- <a href="https://www.instagram.com/mosesrelith/">"Instagram</a>
-- <a href="https://x.com/mosesrelith">"X</a>
+- <a href="https://www.instagram.com/mosesrelith/">Instagram</a>
+- <a href="https://x.com/mosesrelith">X</a>
