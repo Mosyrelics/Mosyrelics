@@ -2,6 +2,7 @@
 
 I am an Informatics Student passionate about software development, problem solving, and building practical applications.
 I like to create projects that strengthen my understanding of data structures, algorithms, and software engineering.
+Currently, this profile is empty because I haven't created many projects yet. In the future, I am planning to create more projects as my way to improve my skill.
 
 ## Main Language
 
