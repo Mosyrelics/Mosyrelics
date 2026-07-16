@@ -35,6 +35,11 @@ I like to create projects that strengthen my understanding of data structures, a
 - Reminder app
 - File organizer
 
+## Finished Projects
+
+- RPG Game (Paths Of Fate) - College Assignment
+- Minesweeper Game - Solo Project
+
 ## GitHub Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mosyrelics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Mosyrelics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=radical)
